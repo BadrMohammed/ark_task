@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/ark_task/static/css/main.1eef0577.chunk.css",
-    "main.js": "/ark_task/static/js/main.0ac7d708.chunk.js",
-    "main.js.map": "/ark_task/static/js/main.0ac7d708.chunk.js.map",
-    "runtime-main.js": "/ark_task/static/js/runtime-main.13682505.js",
-    "runtime-main.js.map": "/ark_task/static/js/runtime-main.13682505.js.map",
-    "static/css/2.61b4cb56.chunk.css": "/ark_task/static/css/2.61b4cb56.chunk.css",
-    "static/js/2.bbc0dbc2.chunk.js": "/ark_task/static/js/2.bbc0dbc2.chunk.js",
-    "static/js/2.bbc0dbc2.chunk.js.map": "/ark_task/static/js/2.bbc0dbc2.chunk.js.map",
-    "static/js/3.895554f5.chunk.js": "/ark_task/static/js/3.895554f5.chunk.js",
-    "static/js/3.895554f5.chunk.js.map": "/ark_task/static/js/3.895554f5.chunk.js.map",
+    "main.css": "/ark_task/static/css/main.7f0b0663.chunk.css",
+    "main.js": "/ark_task/static/js/main.67a1cdc9.chunk.js",
+    "main.js.map": "/ark_task/static/js/main.67a1cdc9.chunk.js.map",
+    "runtime-main.js": "/ark_task/static/js/runtime-main.30916b52.js",
+    "runtime-main.js.map": "/ark_task/static/js/runtime-main.30916b52.js.map",
+    "static/css/2.d41d6dcb.chunk.css": "/ark_task/static/css/2.d41d6dcb.chunk.css",
+    "static/js/2.6292f18e.chunk.js": "/ark_task/static/js/2.6292f18e.chunk.js",
+    "static/js/2.6292f18e.chunk.js.map": "/ark_task/static/js/2.6292f18e.chunk.js.map",
+    "static/js/3.30c6abfb.chunk.js": "/ark_task/static/js/3.30c6abfb.chunk.js",
+    "static/js/3.30c6abfb.chunk.js.map": "/ark_task/static/js/3.30c6abfb.chunk.js.map",
     "index.html": "/ark_task/index.html",
-    "static/css/2.61b4cb56.chunk.css.map": "/ark_task/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.1eef0577.chunk.css.map": "/ark_task/static/css/main.1eef0577.chunk.css.map",
-    "static/js/2.bbc0dbc2.chunk.js.LICENSE.txt": "/ark_task/static/js/2.bbc0dbc2.chunk.js.LICENSE.txt",
-    "static/media/avater.6d644dbc.png": "/ark_task/static/media/avater.6d644dbc.png"
+    "static/css/2.d41d6dcb.chunk.css.map": "/ark_task/static/css/2.d41d6dcb.chunk.css.map",
+    "static/css/main.7f0b0663.chunk.css.map": "/ark_task/static/css/main.7f0b0663.chunk.css.map",
+    "static/js/2.6292f18e.chunk.js.LICENSE.txt": "/ark_task/static/js/2.6292f18e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.13682505.js",
-    "static/css/2.61b4cb56.chunk.css",
-    "static/js/2.bbc0dbc2.chunk.js",
-    "static/css/main.1eef0577.chunk.css",
-    "static/js/main.0ac7d708.chunk.js"
+    "static/js/runtime-main.30916b52.js",
+    "static/css/2.d41d6dcb.chunk.css",
+    "static/js/2.6292f18e.chunk.js",
+    "static/css/main.7f0b0663.chunk.css",
+    "static/js/main.67a1cdc9.chunk.js"
   ]
 }
